@@ -122,7 +122,7 @@ For inquiries or support, feel free to reach out:
 
 - **Name**: Harsh Shukla
 - **Email**: harsh289211@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **LinkedIn**: `https://www.linkedin.com/in/harsh-shukla-aug24`
 - **GitHub**: `https://github.com/AlgorithmicMynd`
 
 ## Future Scope
