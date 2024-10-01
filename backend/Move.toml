@@ -1,0 +1,15 @@
+[package]
+name = "nft_diploma"
+version = "1.0.0"
+authors = []
+
+[addresses]
+nft_addr = 'c32f60bb7f070474c13a38cf03c52ede1cf33259f1475d1bd7689104415cda6b'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
